@@ -23,4 +23,4 @@ Before writing code professionally, I spent 5 years at **Alarm.com** doing techn
 
 ---
 
-Connect with me on [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/nate-burch/)
