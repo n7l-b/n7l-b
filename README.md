@@ -4,7 +4,7 @@ Full stack engineer currently building a multi-tenant B2B SaaS platform from the
 
 ## What I'm working on
 
-At **The Energy Network Worldwide**, I helped build a multi-tenant B2B SaaS platform from the ground up. No existing codebase—we designed the data model, built the API layer, and shipped both web and mobile clients. The platform (Raterflow) handles energy efficiency inspections and replaced two failing legacy systems.
+At **The Energy Network**, I helped build a multi-tenant B2B SaaS platform from the ground up. No existing codebase—we designed the data model, built the API layer, and shipped both web and mobile clients. The platform (Raterflow) handles energy efficiency inspections and replaced two failing legacy systems.
 
 I own requirements gathering, stakeholder communication, and product demos while partnering with a senior engineer on architecture decisions.
 
